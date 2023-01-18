@@ -23,7 +23,6 @@ end_screen = EndScreen()
 # controls setup
 screen.onkey(paddle.left, "Left")
 screen.onkey(paddle.right, "Right")
-screen.onkey(paddle.up, "Up")
 screen.listen()
 
 game_on = True
