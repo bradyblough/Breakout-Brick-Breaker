@@ -1,4 +1,3 @@
-```markdown
 # Breakout Brick Breaker
 
 Welcome to the Breakout Brick Breaker game! This project is a Python-based implementation of the classic arcade game Breakout, where the player aims to break bricks by bouncing a ball off a paddle.
@@ -25,7 +24,7 @@ cd Breakout-Brick-Breaker-
 
 ### Running the Game
 
-To start the game, run the `main.py` file using Python:
+To start the game, run the [`main.py`] file.
 
 ```bash
 python main.py
