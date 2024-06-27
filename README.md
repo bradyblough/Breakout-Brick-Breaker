@@ -42,3 +42,5 @@ python main.py
 - Classic Breakout gameplay.
 - Score tracking.
 - Increasing difficulty levels as the game progresses.
+
+![Breakout Game Screenshot](https://i.postimg.cc/KzNsyj0y/Screenshot-2024-06-26-210243.png "Breakout Game")
